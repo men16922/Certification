@@ -56,5 +56,3 @@ spec:
         - containerPort: 80
 
 ```
-
-![image.png](image%2040.png)
